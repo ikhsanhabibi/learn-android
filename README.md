@@ -31,3 +31,5 @@
 - Android Firebase Authentication (Sig up, Login, Forgot Password)
 
 - Command + D : Duplicate current line or selection
+
+- Timer Chromometer : https://stackoverflow.com/questions/17480936/how-to-display-the-timer-in-android
