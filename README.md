@@ -39,3 +39,4 @@
 - How to show splash screen using Timer in android? : https://stackoverflow.com/questions/18869406/how-to-show-splash-screen-using-timer-in-android 
 
 - Tablayout : https://www.youtube.com/watch?v=4b99TThVkyM
+- BottomNavigation : https://www.youtube.com/watch?v=JT8jKshHVXU
