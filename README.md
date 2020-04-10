@@ -43,3 +43,4 @@
 - Login & Sign up : https://www.youtube.com/watch?v=V0ZrnL-i77Q
 - Check user email already exists in Firebase:  https://www.youtube.com/watch?v=d88BPU4Daso
 - onBackPressed() from fragment to previous activity : https://stackoverflow.com/questions/23927500/get-back-to-a-fragment-from-an-activity
+- Spinner List : https://www.youtube.com/watch?v=FcMiw16bouA
