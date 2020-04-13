@@ -44,3 +44,15 @@
 - Check user email already exists in Firebase:  https://www.youtube.com/watch?v=d88BPU4Daso
 - onBackPressed() from fragment to previous activity : https://stackoverflow.com/questions/23927500/get-back-to-a-fragment-from-an-activity
 - Spinner List : https://www.youtube.com/watch?v=FcMiw16bouA
+
+
+# osmdroid
+- get coordinates by clicking on map (openstreetmaps) : https://stackoverflow.com/questions/16665426/get-coordinates-by-clicking-on-map-openstreetmaps
+- get coordinates by clicking on map (openstreetmaps): https://stackoverflow.com/questions/16665426/get-coordinates-by-clicking-on-map-openstreetmaps/16920229
+- How to get complete address from latitude and longitude? : https://stackoverflow.com/questions/9409195/how-to-get-complete-address-from-latitude-and-longitude
+- Get current location with network provider on osmdroid: https://stackoverflow.com/questions/46200016/get-current-location-with-network-provider-on-osmdroid 
+- Osmdroid - change the default (white) color of the direction arrow (or how to customize the icon) : https://stackoverflow.com/questions/60792234/osmdroid-change-the-default-white-color-of-the-direction-arrow-or-how-to-cu
+- Android getResources().getDrawable() deprecated API 22: https://stackoverflow.com/questions/29041027/android-getresources-getdrawable-deprecated-api-22
+- OSMdroid: How best to achieve an offset map centre: https://stackoverflow.com/questions/44085662/osmdroid-how-best-to-achieve-an-offset-map-centre
+- OSMDROID displays multiple maps with polylines in Android: https://stackoverflow.com/questions/52212951/osmdroid-displays-multiple-maps-with-polylines-in-android/61184853#61184853
+- Getting Longitude and Latitude from the GpsMyLocationProvider (OSMdroid): https://stackoverflow.com/questions/40531893/getting-longitude-and-latitude-from-the-gpsmylocationprovider-osmdroid
