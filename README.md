@@ -56,3 +56,4 @@
 - OSMdroid: How best to achieve an offset map centre: https://stackoverflow.com/questions/44085662/osmdroid-how-best-to-achieve-an-offset-map-centre
 - OSMDROID displays multiple maps with polylines in Android: https://stackoverflow.com/questions/52212951/osmdroid-displays-multiple-maps-with-polylines-in-android/61184853#61184853
 - Getting Longitude and Latitude from the GpsMyLocationProvider (OSMdroid): https://stackoverflow.com/questions/40531893/getting-longitude-and-latitude-from-the-gpsmylocationprovider-osmdroid
+- Two finger rotation for OSMdroid mapview: https://stackoverflow.com/questions/21226036/two-finger-rotation-for-osmdroid-mapview
