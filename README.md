@@ -33,17 +33,20 @@
 - Command + D : Duplicate current line or selection
 
 - Timer Chromometer : https://stackoverflow.com/questions/17480936/how-to-display-the-timer-in-android
-
 - Making an activity appear only once, when the app is started: https://stackoverflow.com/questions/16419627/making-an-activity-appear-only-once-when-the-app-is-started
-
 - How to show splash screen using Timer in android? : https://stackoverflow.com/questions/18869406/how-to-show-splash-screen-using-timer-in-android 
-
 - Tablayout : https://www.youtube.com/watch?v=4b99TThVkyM
 - BottomNavigation : https://www.youtube.com/watch?v=JT8jKshHVXU
-- Login & Sign up : https://www.youtube.com/watch?v=V0ZrnL-i77Q
-- Check user email already exists in Firebase:  https://www.youtube.com/watch?v=d88BPU4Daso
 - onBackPressed() from fragment to previous activity : https://stackoverflow.com/questions/23927500/get-back-to-a-fragment-from-an-activity
 - Spinner List : https://www.youtube.com/watch?v=FcMiw16bouA
+- How to get current location latitude and longitude in Android?: https://www.tutorialspoint.com/how-to-get-current-location-latitude-and-longitude-in-android
+
+
+# Firebase 
+- Login & Sign up : https://www.youtube.com/watch?v=V0ZrnL-i77Q
+- Check user email already exists in Firebase:  https://www.youtube.com/watch?v=d88BPU4Daso
+- Firebase: How to keep an Android user logged in?
+ : https://stackoverflow.com/questions/22262463/firebase-how-to-keep-an-android-user-logged-in
 
 
 # osmdroid
@@ -57,3 +60,9 @@
 - OSMDROID displays multiple maps with polylines in Android: https://stackoverflow.com/questions/52212951/osmdroid-displays-multiple-maps-with-polylines-in-android/61184853#61184853
 - Getting Longitude and Latitude from the GpsMyLocationProvider (OSMdroid): https://stackoverflow.com/questions/40531893/getting-longitude-and-latitude-from-the-gpsmylocationprovider-osmdroid
 - Two finger rotation for OSMdroid mapview: https://stackoverflow.com/questions/21226036/two-finger-rotation-for-osmdroid-mapview
+- Slow loading of map tiles in 6.0.2 : https://github.com/osmdroid/osmdroid/issues/1193
+
+
+# TedPicker
+- Could not resolve com.commonsware.cwac:camera:0.6.+ : https://stackoverflow.com/questions/39638310/could-not-resolve-com-commonsware-cwaccamera0-6
+- Failed to resolve library in android studio : https://stackoverflow.com/questions/37569529/failed-to-resolve-library-in-android-studio
