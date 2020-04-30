@@ -66,3 +66,9 @@
 # TedPicker
 - Could not resolve com.commonsware.cwac:camera:0.6.+ : https://stackoverflow.com/questions/39638310/could-not-resolve-com-commonsware-cwaccamera0-6
 - Failed to resolve library in android studio : https://stackoverflow.com/questions/37569529/failed-to-resolve-library-in-android-studio
+
+
+# ADB Emulator
+- close : adb shell reboot -p
+- kill : adb kill-server
+- start : adb start-server
