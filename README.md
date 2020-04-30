@@ -72,3 +72,8 @@
 - close : adb shell reboot -p
 - kill : adb kill-server
 - start : adb start-server
+
+
+# Image picker & camera
+- Get filename and path from URI from mediastore
+ : https://stackoverflow.com/questions/3401579/get-filename-and-path-from-uri-from-mediastore
