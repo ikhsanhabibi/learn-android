@@ -40,6 +40,7 @@
 - onBackPressed() from fragment to previous activity : https://stackoverflow.com/questions/23927500/get-back-to-a-fragment-from-an-activity
 - Spinner List : https://www.youtube.com/watch?v=FcMiw16bouA
 - How to get current location latitude and longitude in Android?: https://www.tutorialspoint.com/how-to-get-current-location-latitude-and-longitude-in-android
+- ProggresBar : https://stackoverflow.com/questions/12559461/how-to-show-progress-barcircle-in-an-activity-having-a-listview-before-loading
 
 
 # Firebase 
