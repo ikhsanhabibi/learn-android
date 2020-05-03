@@ -37,6 +37,7 @@
 - How to show splash screen using Timer in android? : https://stackoverflow.com/questions/18869406/how-to-show-splash-screen-using-timer-in-android 
 - Tablayout : https://www.youtube.com/watch?v=4b99TThVkyM
 - BottomNavigation : https://www.youtube.com/watch?v=JT8jKshHVXU
+- Bottom Navigation with Activities : https://www.youtube.com/watch?v=xyGrdOqseuw
 - onBackPressed() from fragment to previous activity : https://stackoverflow.com/questions/23927500/get-back-to-a-fragment-from-an-activity
 - Spinner List : https://www.youtube.com/watch?v=FcMiw16bouA
 - How to get current location latitude and longitude in Android?: https://www.tutorialspoint.com/how-to-get-current-location-latitude-and-longitude-in-android
