@@ -45,6 +45,7 @@
 - Android Studio - How to ( close, quit, exit, kill, etc.) an application [duplicate]
 : https://stackoverflow.com/questions/35699540/android-studio-how-to-close-quit-exit-kill-etc-an-application
 
+how to bold a part of text Android String: https://stackoverflow.com/questions/30460469/how-to-bold-a-part-of-text-android-string
 
 # Firebase 
 - Login & Sign up : https://www.youtube.com/watch?v=V0ZrnL-i77Q
