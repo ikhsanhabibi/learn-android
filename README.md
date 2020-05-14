@@ -32,26 +32,36 @@
 
 - Command + D : Duplicate current line or selection
 
+# Splash screen
 - Timer Chromometer : https://stackoverflow.com/questions/17480936/how-to-display-the-timer-in-android
 - Making an activity appear only once, when the app is started: https://stackoverflow.com/questions/16419627/making-an-activity-appear-only-once-when-the-app-is-started
 - How to show splash screen using Timer in android? : https://stackoverflow.com/questions/18869406/how-to-show-splash-screen-using-timer-in-android 
+
+# Navigation
 - Tablayout : https://www.youtube.com/watch?v=4b99TThVkyM
 - BottomNavigation : https://www.youtube.com/watch?v=JT8jKshHVXU
 - Bottom Navigation with Activities : https://www.youtube.com/watch?v=xyGrdOqseuw
 - onBackPressed() from fragment to previous activity : https://stackoverflow.com/questions/23927500/get-back-to-a-fragment-from-an-activity
+
 - Spinner List : https://www.youtube.com/watch?v=FcMiw16bouA
 - How to get current location latitude and longitude in Android?: https://www.tutorialspoint.com/how-to-get-current-location-latitude-and-longitude-in-android
 - ProggresBar : https://stackoverflow.com/questions/12559461/how-to-show-progress-barcircle-in-an-activity-having-a-listview-before-loading
 - Android Studio - How to ( close, quit, exit, kill, etc.) an application [duplicate]
 : https://stackoverflow.com/questions/35699540/android-studio-how-to-close-quit-exit-kill-etc-an-application
+- how to bold a part of text Android String: https://stackoverflow.com/questions/30460469/how-to-bold-a-part-of-text-android-string
 
-how to bold a part of text Android String: https://stackoverflow.com/questions/30460469/how-to-bold-a-part-of-text-android-string
+# Languages
+- How to make our app to support multiple languages?: https://www.youtube.com/watch?v=zILw5eV9QBQ
+- Radio Buttons & Radio Groups - Android Studio Tutorial: https://www.youtube.com/watch?v=fwSJ1OkK304&vl=en
+- How to change language of app when user selects language?: https://stackoverflow.com/questions/12908289/how-to-change-language-of-app-when-user-selects-language
+- Automatic String Resource Translation: https://asrt.gluege.boerde.de/
 
 # Firebase 
 - Login & Sign up : https://www.youtube.com/watch?v=V0ZrnL-i77Q
 - Check user email already exists in Firebase:  https://www.youtube.com/watch?v=d88BPU4Daso
-- Firebase: How to keep an Android user logged in?
- : https://stackoverflow.com/questions/22262463/firebase-how-to-keep-an-android-user-logged-in
+- Firebase: How to keep an Android user logged in?: https://stackoverflow.com/questions/22262463/firebase-how-to-keep-an-android-user-logged-in
+- Upload Images to Firebase Storage and have a link in Firebase Database: https://stackoverflow.com/questions/53511883/upload-images-to-firebase-storage-and-have-a-link-in-firebase-database
+- Simple App to Upload Image to Firebase Storage by Capturing image and Select from gallery: https://github.com/ashok1708/ClickView
 
 
 # osmdroid
@@ -82,3 +92,11 @@ how to bold a part of text Android String: https://stackoverflow.com/questions/3
 # Image picker & camera
 - Get filename and path from URI from mediastore
  : https://stackoverflow.com/questions/3401579/get-filename-and-path-from-uri-from-mediastore
+ - file.getName() on a File object created in Android from a file path generated in Java produces strange results
+: https://stackoverflow.com/questions/23217080/file-getname-on-a-file-object-created-in-android-from-a-file-path-generated-in
+- How to ask runtime permissions for Camera: https://stackoverflow.com/questions/42275906/how-to-ask-runtime-permissions-for-camera
+- Android Ask for Camera Permission On Activity start: https://stackoverflow.com/questions/50002780/android-ask-for-camera-permission-on-activity-start
+
+
+# SQLite
+- Android SQLite Tutorial | Android CRUD Tutorial with SQLite (Create, Read, Update, Delete): https://www.youtube.com/watch?v=kDZES1wtKUY
