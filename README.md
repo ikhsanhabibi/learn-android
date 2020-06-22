@@ -97,6 +97,7 @@
 : https://stackoverflow.com/questions/23217080/file-getname-on-a-file-object-created-in-android-from-a-file-path-generated-in
 - How to ask runtime permissions for Camera: https://stackoverflow.com/questions/42275906/how-to-ask-runtime-permissions-for-camera
 - Android Ask for Camera Permission On Activity start: https://stackoverflow.com/questions/50002780/android-ask-for-camera-permission-on-activity-start
+- Create bitmap from file path: https://stackoverflow.com/questions/16804404/create-a-bitmap-drawable-from-file-path
 
 
 # SQLite
