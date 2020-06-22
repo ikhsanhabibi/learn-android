@@ -54,6 +54,7 @@
 - How to make our app to support multiple languages?: https://www.youtube.com/watch?v=zILw5eV9QBQ
 - Radio Buttons & Radio Groups - Android Studio Tutorial: https://www.youtube.com/watch?v=fwSJ1OkK304&vl=en
 - How to change language of app when user selects language?: https://stackoverflow.com/questions/12908289/how-to-change-language-of-app-when-user-selects-language
+- Keep the folder name simple (values-in): https://gunhansancar.com/change-language-programmatically-in-android/
 - Automatic String Resource Translation: https://asrt.gluege.boerde.de/
 
 # Firebase 
