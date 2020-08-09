@@ -99,9 +99,22 @@
 - Android Ask for Camera Permission On Activity start: https://stackoverflow.com/questions/50002780/android-ask-for-camera-permission-on-activity-start
 - Create bitmap from file path: https://stackoverflow.com/questions/16804404/create-a-bitmap-drawable-from-file-path
 
+# Glide Library
+- http://bumptech.github.io/glide/doc/getting-started.html
+- https://guides.codepath.com/android/Displaying-Images-with-the-Glide-Library#fitcenter
+- Showing image in popup using a library: https://stackoverflow.com/questions/51548212/showing-image-in-popup-using-a-library
+- Android Image Popup: https://github.com/chathuralakmal/AndroidImagePopup
+- android - image quality is low when using glide: https://stackoverflow.com/questions/42433718/android-image-quality-is-low-when-using-glide
 
 # SQLite
 - Android SQLite Tutorial | Android CRUD Tutorial with SQLite (Create, Read, Update, Delete): https://www.youtube.com/watch?v=kDZES1wtKUY
+
+
+# Styling
+- How to give underline to textview,tried many methods which are suggested [duplicate]
+: https://stackoverflow.com/questions/47389883/how-to-give-underline-to-textview-tried-many-methods-which-are-suggested
+- Make EditText ReadOnly: https://stackoverflow.com/questions/6384004/make-edittext-readonly
+
 
 
 
